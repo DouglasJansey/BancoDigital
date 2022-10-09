@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author Douglas
+ *
+ */
+module DigitalBank {
+}
